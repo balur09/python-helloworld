@@ -41,4 +41,4 @@ jobs:
             file: ./Dockerfile
             platforms: linux/amd64
             push: true
-            tags: balur09/python-helloworld:latest
+            tags: balur09/py-helloworld:latest
